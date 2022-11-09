@@ -1,0 +1,11 @@
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\bin\Debug\PSimplementeEnlazada.exe.config
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\bin\Debug\PSimplementeEnlazada.exe
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\bin\Debug\PSimplementeEnlazada.pdb
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.csproj.AssemblyReference.cache
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.csproj.SuggestedBindingRedirects.cache
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.Form1.resources
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.Properties.Resources.resources
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.csproj.GenerateResource.cache
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.exe
+C:\Users\cabar\source\repos\SSimplementeEnlazada\PSimplementeEnlazada\obj\Debug\PSimplementeEnlazada.pdb
